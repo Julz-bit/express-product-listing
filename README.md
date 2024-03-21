@@ -21,12 +21,12 @@ DB_PASSWORD=
 
 Development Mode
 ```bash
-$ pnpm start:dev
+$ pnpm run start:dev
 
 ```
 
 Production Mode
 ```bash
-$ pnpm start
+$ pnpm run start
 
 ```
